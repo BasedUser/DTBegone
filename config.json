@@ -1,9 +1,0 @@
-{
-	"name":"dtbegone",
-	"display-name":"DeltaTime Begone",
-	"author":"BasedUser AKA router",
-	"description":"Removes all framerate dependency and locks game actions to 1 tick per frame.\n[#f]BREAKS sk7725/TimeControl[]\n\nEffects and usecases:\n- With good GPUs and vsync off, allows precisely computed timewarping.\n- With good gpus and vsync ON, allows you to test designs at their baseline 60fps speed.\n- Desyncs almost everything in multiplayer (but we're already desynced so it doesn't matter)",
-	"version":"1.0",
-	"hidden":true,
-	"minGameVersion":106
-}
